@@ -26,5 +26,8 @@
   },
   "scripts": {
     "install": "make install"
+  },
+  "peerDependencies": {
+    "google-closure-compiler": ">=20160822.1.0"
   }
 }
